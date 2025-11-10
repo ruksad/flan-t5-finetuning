@@ -1,0 +1,800 @@
+0
+REF: Hannah needs Betty's number but Amanda doesn't have it. She needs to contact Larry.
+PRED: Larry called Hannah last time they were at the park together. Hannah doesn't know Larry well.
+------------------------------------------------------------
+1
+REF: Eric and Rob are going to watch a stand-up on youtube.
+PRED: Eric and Rob are watching a stand-up on YouTube.
+------------------------------------------------------------
+2
+REF: Lenny can't decide which trousers to buy. Bob advised Lenny on that topic. Lenny goes with Bob's advice to pick the trousers that are of best quality.
+PRED: Bob sends Lenny photos of his trousers. Lenny will buy the first pair or the third pair.
+------------------------------------------------------------
+3
+REF: Emma will be home soon and she will let Will know.
+PRED: Will is going to pick Emma up. Emma will be home soon.
+------------------------------------------------------------
+4
+REF: Jane is in Warsaw. Ollie and Jane has a party. Jane lost her calendar. They will get a lunch this week on Friday. Ollie accidentally called Jane and talked about whisky. Jane cancels lunch. They'll meet for a tea at 6 pm.
+PRED: Ollie is in Warsaw. Jane and Ollie have lunch this week. They have lunch on Friday. Ollie will bring some sun with her.
+------------------------------------------------------------
+5
+REF: Hilary has the keys to the apartment. Benjamin wants to get them and go take a nap. Hilary is having lunch with some French people at La Cantina. Hilary is meeting them at the entrance to the conference hall at 2 pm. Benjamin and Elliot might join them. They're meeting for the drinks in the evening.
+PRED: Benjamin, Hilary and Daniel are meeting for drinks in the evening. Hilary and Daniel will go to La Cantina. Hilary will take the keys and take a nap.
+------------------------------------------------------------
+6
+REF: Payton provides Max with websites selling clothes. Payton likes browsing and trying on the clothes but not necessarily buying them. Payton usually buys clothes and books as he loves reading.
+PRED: Max and Payton buy clothes from a lot of sites. Payton likes browsing, looking in the mirror, looking in the mirror and seeing how he looks, but doesn't always buying.
+------------------------------------------------------------
+7
+REF: Rita and Tina are bored at work and have still 4 hours left.
+PRED: Rita is tired. Tina keeps on looking at the clock and there's still 4 hours of boredom.
+------------------------------------------------------------
+8
+REF: Beatrice wants to buy Leo a scarf, but he doesn't like scarves. She cares about his health and will buy him a scarf no matter his opinion.
+PRED: Beatrice doesn't want to buy a scarf because she doesn't have a scarf.
+------------------------------------------------------------
+9
+REF: Eric doesn't know if his parents let him go to Ivan's brother's wedding. Ivan will talk to them.
+PRED: Eric is coming to the wedding with his brother's. Ivan doesn't know if his parents will let him.
+------------------------------------------------------------
+10
+REF: Wanda wants to throw a party. She asks Gina to borrow her father's car and go do groceries together. They set the date for Friday.
+PRED: Wanda and Gina will make a party on Friday.
+------------------------------------------------------------
+11
+REF: Martin wrote a short review and won 2 cinema tickets on FB. Martin wants Aggie to go with him this week for the new film with Redford.
+PRED: Martin won two cinema tickets for the new film with Redford.
+------------------------------------------------------------
+12
+REF: Charlee is attending Portuguese theater as a subject at university. He and other students are preparing a play by Mrożek translated into Portuguese.
+PRED: Charlee is in class. Curtis and Charlee are preparing a performance.
+------------------------------------------------------------
+13
+REF: Ella rented a car, this makes things much faster for her and Tom.
+PRED: Tom and Ella are going by car or train.
+------------------------------------------------------------
+14
+REF: Paul is going to share his Netflix account with Luke. In exchange Luke is going to contribute to the subscription. Paul will send Luke his bank details. Paul is on vacation with his girlfriend till tomorrow.
+PRED: Luke is looking for someone to join netflix family. Luke will send him the login and password on sunday. Luke will send him the bank account details so he can wire him the money every month. Luke is still on holidays with his girl. Luke has been there less than 8 days.
+------------------------------------------------------------
+15
+REF: Greg and Betsy have a lot of work today, so they cannot pick up Johnny from the kindergarten. However, it's Greg's turn to do it. Greg will try to find a solution.
+PRED: Greg and Betsy are going to pick Johnny up. Greg will pick him up on Tuesday.
+------------------------------------------------------------
+16
+REF: Ethan, Toby and Marshall are making fun of Scott.
+PRED: Scott and Toby are enjoying making fun of each other.
+------------------------------------------------------------
+17
+REF: Igor has a lot of work on his notice period and he feels demotivated. John thinks he should do what he has to do nevertheless.
+PRED: Igor is demotivated to give much work to someone on their notice period.
+------------------------------------------------------------
+18
+REF: Clara is rewatching Dear White People and strongly recommends it to Neela.
+PRED: Neela is watching Dear White People on Netflix.
+------------------------------------------------------------
+19
+REF: Mike took his car into garage today. Ernest is relieved as someone had just crashed into a red Honda which looks like Mike's.
+PRED: Ernest parked his car on the street. Mike took it into garage today.
+------------------------------------------------------------
+20
+REF: Beth wants to organize a girls weekend to celebrate her mother's 40th birthday. She also wants to work at Deidre's beauty salon. Deidre offers her a few hours on Saturdays as work experience. They set up for a meeting tomorrow.
+PRED: Beth and Kira have a surprise party for Deirdre's 40th birthday. Beth and Deirdre are looking for girls on a Saturday. Deirdre is looking for a tutor. Beth and Deirdre will meet on a Saturday.
+------------------------------------------------------------
+21
+REF: Gloria has an exam soon. It lasts 4 hours. Emma sent her a link to a website with some texts from previous years so that she can prepare for the exam better.
+PRED: Gloria and Emma are going to read all the texts from the website.
+------------------------------------------------------------
+22
+REF: Adam and Karen are worried that May suffers from depression. Karen will call her friend who is a psychologist and ask for advice.
+PRED: Karen is worried about May's depression. Karen suggests a specialist. Karen doesn't want to see a specialist.
+------------------------------------------------------------
+23
+REF: Mark lied to Anne about his age. Mark is 40.
+PRED: Anne was lying to Irene about Mark's passport.
+------------------------------------------------------------
+24
+REF: Next week is Wharton's birthday. Augustine, Darlene, Heather and Walker want to buy him a paper shredder. Walker will make sure if Wharton really wants it.
+PRED: Augustine, Darlene and Augustine are going to a party next week. They need to buy a paper shredder at the party.
+------------------------------------------------------------
+25
+REF: Kelly is scared of sculpture garden figures in Finnland, she finds figure's faces morbid. For Ollie it's Nagoro village in Japan, it's creepy.
+PRED: Mickey, Jessica and Ollie are talking about a sculpture garden in Finnland.
+------------------------------------------------------------
+26
+REF: Selah called a person that did not pick up.
+PRED: Selah can't see the phone number.
+------------------------------------------------------------
+27
+REF: Bella and Eric dismissed a request of a client. Their boss appreciated the decision. He brings in new clients.
+PRED: Bella's boss asked Eric to dismiss the request of his client. Bella also appreciated the decision to dismiss the request of his client.
+------------------------------------------------------------
+28
+REF: Emma is about to take a nap in the back of the bus to New York. Ben and Emma will be there around 4.30 pm. Ben will wake Emma up 15 minutes prior to their arrival.
+PRED: Emma and Ben are going to New York around 4.30 PM. They will see each other around 4.15.
+------------------------------------------------------------
+29
+REF: Jesse, Melvin, Lee and Maxine are going to take part in the Christmas charity action of the foundation called Refuge, which helps women and children who escape from abuse.
+PRED: Jesse, Lee and Maxine are planning a Christmas fund for women and children. They will chip in the same amount of money.
+------------------------------------------------------------
+30
+REF: Mary ran out of money. Carter is going to lend her some in an hour.
+PRED: Mary will lend Carter a few box. Carter is at the train station.
+------------------------------------------------------------
+31
+REF: Paula helped Charlotte with correct pronunciation of "Natal lily".
+PRED: Paula and Charlotte are going to send a file to Paula.
+------------------------------------------------------------
+32
+REF: Jack and May will drink cocktails later.
+PRED: Jack and May are going to drink a little drink.
+------------------------------------------------------------
+33
+REF: Margaret is suffering from a terrible headache and wants Jack to buy her some painkillers.
+PRED: Margaret is going to buy a painkiller. Jack suggests that Margaret should rest.
+------------------------------------------------------------
+34
+REF: Serge is on his way to pick up the film equipment for the shooting tonight. Andrei and Serge are late with a large payment to the company. Serge and Andrei will try to use the credit card to pay the company.
+PRED: Andrei picks up the film equipment for tonite's shooting. Serge has an outstanding bill to pay with the company. Andrei will let Serge know if it works.
+------------------------------------------------------------
+35
+REF: Martina advises against getting a hamster.
+PRED: Martina is asking Janice to get him a hamster for his birthday.
+------------------------------------------------------------
+36
+REF: Mary has played DA Inquisition. Lucas has played DA II. Daniel started playing DA Inquisition.
+PRED: Daniel and Mary played DA II. They haven't played it yet.
+------------------------------------------------------------
+37
+REF: Judy thinks she's always attracted to bad guys.
+PRED: Judy is always attracted to jerks. Andrew stopped calling and texting.
+------------------------------------------------------------
+38
+REF: Riley and James watch Chloe on tv undergoing a metamorphosis.
+PRED: Chloe is on tv. James doesn't get it. Chloe is on a programme in which women undergo metamorphosis.
+------------------------------------------------------------
+39
+REF: Tina will catch the evening flight back home. Ala is on her way to the meeting. She will let Tina know how it went.
+PRED: Ala and Tina are on their way to a meeting. Tina is on her way to a meeting.
+------------------------------------------------------------
+40
+REF: Sebastian is very happy with his life, and shares this happiness with Kevin.
+PRED: Sebastian and Kevin have been living together for a year. Sebastian has learned how to be resourceful, learn responsibility, and have the power to make their dreams come true.
+------------------------------------------------------------
+41
+REF: Son is coming to see his parents' this weekend.
+PRED: Son is not sure if he will come home this weekend.
+------------------------------------------------------------
+42
+REF: Ola is in Cuba and is enjoying her trip. She has problems with connectivity there. Momo has recovered from her injury. Ola doesn't like the clothes in Cuba. Ola will try to find a blouse for mum in Cuba, as Kate suggested.
+PRED: Ola, Kate and Ola are enjoying their trip to Cuba. Ola's scarf is one of Ola's favorites. Ola's momo has recovered from her injury and frolicking again.
+------------------------------------------------------------
+43
+REF: Mike will ask Mary for John's new number.
+PRED: John's number is John's.
+------------------------------------------------------------
+44
+REF: Joseph has sent Ella a photo of Wujek Janek's twin baby cows. Ella is delighted.
+PRED: Joseph has tween cows. Ella wants to touch them.
+------------------------------------------------------------
+45
+REF: Josh thinks Stephen accidentally took his notebook. Jack has it and will bring it tomorrow.
+PRED: Josh has accidentally taken his notebook home. Jack will bring it to Josh's place.
+------------------------------------------------------------
+46
+REF: Adele got a new biscuit Labrador Chewy that is 4 months. Her cats keep their distance, and Poppy and Lulu seem to mother Chewy and Speedy wants to play.
+PRED: Adele got a new dog. Adele has a new dog. Poppy and Lulu are adopting dogs.
+------------------------------------------------------------
+47
+REF: Kristian and Tabora are playing a game about what they like best.
+PRED: Tabora and Kristian are going to watch Superman and Batman.
+------------------------------------------------------------
+48
+REF: Cathy will pick up her glasses tonight at 10.
+PRED: Cathy left her sunglasses at Broke's. Broke will pick them up at 10 tonight.
+------------------------------------------------------------
+49
+REF: Petra is very sleepy at work today, Andy finds the day boring, and Ezgi is working.
+PRED: Petra is sleeping with her eyes open. Ezgi is working at the office. Andy asks Petra to have a black belt in karate.
+------------------------------------------------------------
+50
+REF: Nick finds Jane pretty and invites her for a drink to get to know her better. Jane rejects Nick and is unpleasant to him. Nick suggests Jane to forget about their conversation.
+PRED: Nick and Jane are going to meet up for a drink at Nick's house.
+------------------------------------------------------------
+51
+REF: Julia knew Tim was gay, while Adam and Nate didn't.
+PRED: Adam's friend told Nate he saw Tim with a guy.
+------------------------------------------------------------
+52
+REF: Lilly will be late. Gabriel will order pasta with salmon and basil for her.
+PRED: Lilly and Gabriel will order a pasta with salmon and basil.
+------------------------------------------------------------
+53
+REF: Celine is not at home, but she will call Cara before visiting her.
+PRED: Cara is at home. Celine will drop by in the evening.
+------------------------------------------------------------
+54
+REF: Derek will be at Craig's in 20 minutes to help him with his malfunctioning computer.
+PRED: Craig has a problem with his computer. He needs 20 minutes to get to his car.
+------------------------------------------------------------
+55
+REF: Abigail is not going to take a stroll with the little ones. Her smog alert app is showing that the norms have been exceeded by 30% today.
+PRED: Emma wants to take a stroll with the little ones. Abigail needs to install the app.
+------------------------------------------------------------
+56
+REF: Paul will buy red roses following Cindy's advice.
+PRED: Paul will buy red roses for Cindy.
+------------------------------------------------------------
+57
+REF: Jenny has left her credit car at the Mary's shop.
+PRED: Mary has left her credit card at Jenny's shop. Jenny will pick it up when she arrives.
+------------------------------------------------------------
+58
+REF: It's Tom's birthday. Lara and Gary will come to Tom's place about 5 pm to prepare everything before Tom gets back home at 5:30. Gary has already paid for the cake - Lara will pick it up and she will also get the balloons.
+PRED: Gary and Lara will meet at 5 pm at Tom's birthday party. Lara will pick up the cake and get the balloons.
+------------------------------------------------------------
+59
+REF: Paul is late for a meeting with Laura and she refuses to wait any longer.
+PRED: Paul is near the Mac. Laura has waited 30 minutes, 15 minutes ago.
+------------------------------------------------------------
+60
+REF: Salma and Hugh like cat memes.
+PRED: Salma shares the latest cat meme with Hugh.
+------------------------------------------------------------
+61
+REF: Todays results show that Matt and Oliver got into Stanford University, Peter did not.
+PRED: Peter didn't get into Stanford because he didn't get into Stanford.
+------------------------------------------------------------
+62
+REF: English classes were cancelled because Smith called in sick and replacement could not be found.
+PRED: Jake and Vanessa don't have English today. Smith called in sick.
+------------------------------------------------------------
+63
+REF: Brandon has lost his credit card and blocked it in the bank. It will take some time before he gets a new one, and he needs money. Luke is broke, but Ian will lend Brandon some money.
+PRED: Brandon has lost his credit card. He blocked it in the bank but it will take time before he gets a new one. Ian will lend him $ 100.
+------------------------------------------------------------
+64
+REF: Patrycja and Inez enjoyed the Italian evening. Gosia chose a great place. Alicja hasn't been to the new restaurant. They all want a Korean evening on Wednesday in two weeks time.
+PRED: Inez and Gosia are planning to go to a new restaurant in Korea on Wednesday.
+------------------------------------------------------------
+65
+REF: Ana wants to visit grandma tomorrow. Catherine will go with her. She will call Anna when she wakes up.
+PRED: Catherine is going to visit grandma tomorrow. She will call Ana when she wakes up.
+------------------------------------------------------------
+66
+REF: Edson is booking his ticket now.
+PRED: Joyce, Michael and Edson are going to book a ticket now.
+------------------------------------------------------------
+67
+REF: Jane wants to leave at 4.30 instead of 5 because Google Maps suggests the 300 km drive should take them at least 3 hours and she doesn't want to be late. She will wait for Steven at the main entrance.
+PRED: Steven and Jane will meet at the main entrance at 4:30.
+------------------------------------------------------------
+68
+REF: Suzanne is at work and is having a break now. Morgan invites Suzanne to a concert of Maroon 5 which takes place next week at the Hulu Theatre at Madison Square Garden. Suzzanne agrees.
+PRED: Morgan and Suzie are going to Maroon 5 next week. Morgan has two tickets for Maroon 5 next week.
+------------------------------------------------------------
+69
+REF: The last one Julia read was Die again from 2014. There's going to be a meeting with Tess organized by the city library.
+PRED: Liam and Julia haven't read Die again since 2014.
+------------------------------------------------------------
+70
+REF: Ali left his wallet at Mohammad's place. Mohammad'll bring it to uni tomorrow.
+PRED: Ali left Mohammad's wallet at her place yesterday. Mohammad will bring it to U.S. tomorrow.
+------------------------------------------------------------
+71
+REF: Linda and Laura are going to an Italian restaurant tomorrow.
+PRED: Linda and Linda will go to an Italian restaurant.
+------------------------------------------------------------
+72
+REF: Anna organises a birthday's party on the 6th of November at 19:30.
+PRED: Natalie, Adam and Margot are going to invite everyone to their birthday party on 6th of November.
+------------------------------------------------------------
+73
+REF: Mia is going out after work tonight with her female friends. If she wants, Elliot will come and pick her up.
+PRED: Elliot and Elliot are going out after work tonight. Elliot and Elliot will grab some drinks and have some nice time outside of work.
+------------------------------------------------------------
+74
+REF: Jayden explains Brennan why she doesn't want to be pregnant.
+PRED: Jayden doesn't need kids. He needs to look for another mother to his kids.
+------------------------------------------------------------
+75
+REF: USA won last night. England is playing against Croatia tomorrow at 2.
+PRED: Steve forgot to check Gulab's tickets for England tomorrow at 2:00.
+------------------------------------------------------------
+76
+REF: John forgot his wallet. He wants Ela to give it to him outside in 10 minutes.
+PRED: John is coming in 10 minutes to give Ela his walle. Ela is getting late.
+------------------------------------------------------------
+77
+REF: Mark told his sister that Mary is doing an online job. Mark's sister is contacting people to confirm it. Mark thinks she's jealous. Mary hates Mark's sister.
+PRED: Mary doesn't want to prove anything to anyone. Mark doesn't want to prove anything to anyone. Mary doesn't want to prove anything to anyone. Mark doesn't want to prove anything to anyone.
+------------------------------------------------------------
+78
+REF: Fiona wants to prepare dinner for Chris. She is thinking of Tina's tart. She will help her make it.
+PRED: Fiona is trying to prepare a tart for Chris. Tina will help her prepare the filling.
+------------------------------------------------------------
+79
+REF: Annette is sick. James is going to the Jesus bar. Oli couldn't find anyone near the bar.
+PRED: Peadar is coming for a drink later. Annette is home sick. James and Helen are going to Jesus bar. Peadar will join Helen.
+------------------------------------------------------------
+80
+REF: Ryan and Sebastian are worried about the political situation in Ukraine.
+PRED: Ryan has a bad feeling about Ukraine.
+------------------------------------------------------------
+81
+REF: Finn and Zadie are going to Elephant and Castle tomorrow at 2. They will meet at the main entrance.
+PRED: Finn and Zadie are going to Elephant and Castle tomorrow. Zadie and Finn will meet at the main entrance of the Elephant and Castle shopping centre.
+------------------------------------------------------------
+82
+REF: Jacob hasn't listened to the song Harry sent him 3 days ago. Jacob will do it later tonight and let Harry know what he thinks.
+PRED: Harry has listened to the song Jacob sent him 3 days ago. Jacob will talk to Harry later tonight.
+------------------------------------------------------------
+83
+REF: Ray is locked in the room from the outside and he has to pee. Max's roommate will come and let him out.
+PRED: Ray is in Max's room. Someone locked the door from outside. Max will let him out.
+------------------------------------------------------------
+84
+REF: Kim is about to tell mom that Harry bought a new sofa, and he needs grey pillows.
+PRED: Kim wants to buy a new sofa and pillows.
+------------------------------------------------------------
+85
+REF: Josh wants to buy a tablet and doesn't know which brand he should choose. According to Brian, other brands are better than Apple and he can get a Samsung tablet cheaper. Josh will call Brian after work to talk about it.
+PRED: Josh wants to buy an iPad. Brian will call him after work.
+------------------------------------------------------------
+86
+REF: Nathalie, Olafur and Zoe are planning the New Year's Eve. Nathalie wants something classy. Olafur doesn't like opera. They want to go to the Breakfast at Tiffany's party in Soho.
+PRED: Olafur, Nathalie and Zoe are planning a party for New Year's Eve. Olafur and Nathalie will go to Soho and buy some tickets.
+------------------------------------------------------------
+87
+REF: Frank tries to encourage Andy to learn for the tomorrow's quiz.
+PRED: Andy has a quiz tomorrow. Frank will study for it tomorrow.
+------------------------------------------------------------
+88
+REF: Kim needs to get some fresh fish in Warsaw. Kim will ask at restaurants about their source. Kim is planning something special but won't share any details with Margot for now.
+PRED: Kim is looking for fresh ramal fish in Warsaw.
+------------------------------------------------------------
+89
+REF: Tom will meet Ben in the Oval Room at 2pm and tells him to bring the papers.
+PRED: Tom and Ben will meet at 2 pm in the Oval Room.
+------------------------------------------------------------
+90
+REF: Ashleigh got the job.
+PRED: Ashleigh and Peter are going to the cinema.
+------------------------------------------------------------
+91
+REF: Danna has a boring weekend and is watching TV. Reed is in bed. He has a free day tomorrow.
+PRED: Reed is angry with Danna about the weekend. Danna hasn't been able to watch TV since the subscription expired. Reed is in bed tomorrow.
+------------------------------------------------------------
+92
+REF: Alivia has been taciturn lately. She was trying to write her thesis. She can't focus on writing. She'll try to follow Antonio's advice to start writing without overthinking.
+PRED: Alivia is working on her thesis. Alivia doesn't think it's going too well.
+------------------------------------------------------------
+93
+REF: Maddie will buy a white bread and apples on John's request.
+PRED: John is in Asda. Maddie needs a white bread and apples.
+------------------------------------------------------------
+94
+REF: Elliot can't talk to Jordan now, he's busy. He'll call him back at 8 pm. Jordan is going to Brad's funeral. He had liver cancer.
+PRED: Elliot is going to a funeral tonight. Jordan will call Elliot at 8 pm.
+------------------------------------------------------------
+95
+REF: Flo cannot get an appointment at the salon until the 6th. Flo worries she's going to be gray. Flo will have to get a touch-up kit at Tesco.
+PRED: Flo can't get into the salon until the 6th. Gina is going to be gray.
+------------------------------------------------------------
+96
+REF: Rob is doing shopping at the grocery store. Ann ordered him to buy a cucumber, some tomatoes, bananas and apples.
+PRED: Rob will pick up Ann's phone at the grocery store. Ann has everything for supper and lunch tomorrow.
+------------------------------------------------------------
+97
+REF: It's been very long since Melany last had sex. Marvin made an inappropriate joke about it.
+PRED: Melany doesn't remember the last time Marvin got laid.
+------------------------------------------------------------
+98
+REF: Eric, Samantha and Noah's professor is commenting a recent scandal on the news.
+PRED: Samantha and Eric are discussing the recent scandal on the news. Noah is the smartest person alive.
+------------------------------------------------------------
+99
+REF: According to Jacky, David did the right thing taking the blame. They will talk when Jack comes back home.
+PRED: Jacky is going to call David when he gets home.
+------------------------------------------------------------
+100
+REF: Rick and Helen are in Cancun. They're flying to Havana in two days. Chris and Rick will talk on Skype at 3 PM in Mexico.
+PRED: Rick is flying to Havana on his last two days in Cancun before flying to Havana. Chris will skype tomorrow at 3 pm.
+------------------------------------------------------------
+101
+REF: Ying sent a photo of his 10 years challenge to Helen, Norma and Zazu.
+PRED: Ying's 10 years challenge is over. Norma is impressed.
+------------------------------------------------------------
+102
+REF: Daniel will see Missy after 6 for drinks.
+PRED: Daniel gets out of work at 6. Missy drinks after dinner.
+------------------------------------------------------------
+103
+REF: Adelle has to clean the hamster cage after school.
+PRED: Pete cleaned the hamster cage after school.
+------------------------------------------------------------
+104
+REF: Maya will buy 5 packs of earplugs for Randolph at the pharmacy.
+PRED: Randolph is in the pharmacy. Maya will buy 5 packs of earplugs.
+------------------------------------------------------------
+105
+REF: David is coming home for Christmas next week.  Jane has no idea what to buy their father so David is going to order an ipad online.
+PRED: David is coming home for Christmas next week. Jane's dad will buy a ipad. David will order it online and have it shipped home.
+------------------------------------------------------------
+106
+REF: Isabella is grateful to Betty for sharing the information about her work yesterday. Isabella offers Betty her company, should Betty want to do something together.
+PRED: Isabella was very nice to listen to Betty's work yesterday.
+------------------------------------------------------------
+107
+REF: Hollie says hello to Amy, but Amy is busy working and can't chat right now.
+PRED: Amy will get back to Hollie later.
+------------------------------------------------------------
+108
+REF: Alex will go swimming toghether with Huda in two hours.
+PRED: Alex will join Huda in 2 hours.
+------------------------------------------------------------
+109
+REF: Janet, Nicole, Alison, Arlene, Leslie, Ros, Eric and Sue are all complaining about Donald Trump and his absence at the ceremony.
+PRED: Janet is ashamed of Donald Trump's pity full comb. Elsie is a spoiled brat baby. Donald Trump is selfish and inconsiderate.
+------------------------------------------------------------
+110
+REF: Rashi is confused by too many career choices. Teacher advises him to choose something he has passion for and what interests him.
+PRED: Rashi is a bit confused about her career. Rashi is discussing with her friends about career options.
+------------------------------------------------------------
+111
+REF: Corbin reported to the department in charge of school violence that his friend has been beaten.
+PRED: Corbin and Dimitri are in a high school in Jungang. They are not hitting him any more. Corbin will call Dimitri now.
+------------------------------------------------------------
+112
+REF: Marta needs help with the PC. On Joel's advice, she will contact Cynthia or Elena as they might know someone.
+PRED: Joel and Marta are looking for a good technician to fix PC's. Pablo is on vacation this week.
+------------------------------------------------------------
+113
+REF: Ann doesn't know what she should give to her dad as a birthday gift. He's turning 50. Fiona tries to help her and suggests a paintball match.
+PRED: Ann and Fiona are planning a surprise party for their dad's birthday. Fiona and Ann are planning to go to a surprise party with their dad's family.
+------------------------------------------------------------
+114
+REF: Fatima is worried about Jenson and Alene. Alene has issues. Lincoln doesn't want Fatima to worry about others too much.
+PRED: Fatima and Fatima will go to Alene's place.
+------------------------------------------------------------
+115
+REF: Bob is going to help Lisa clean the house, he will clean the bathroom.
+PRED: Lisa has to clean the house. Bob will help her clean the bathroom.
+------------------------------------------------------------
+116
+REF: luke and martial want to help the team and play despite their injuries. They will meet at carrington and go to the coach's office.
+PRED: luke, luke, martial and luke will meet at carrington and go to his office early.
+------------------------------------------------------------
+117
+REF: Emily and Julie wish Merry Christmas to each other.
+PRED: Julie is sending lots of kisses to Emily.
+------------------------------------------------------------
+118
+REF: Ricky's new neighbours are nice but loud. They own a parakeet that makes a lot of noise throughout the night.
+PRED: Frederick and Ricky are new neighbors.
+------------------------------------------------------------
+119
+REF: Sandra and Brenda used to work together in the clothes factory 25 years ago. Sandra still lives in Kings Norton. Brenda lives in Stoke now. Her husband Bill died 5 years ago. They will meet in Birmingham for a lunch next Saturday about 11. They want to organize a reunion for the Lister's girls.
+PRED: Brenda's maiden name is Sandra Donovan. Brenda's husband Bill died 5 years ago. Brenda's husband Bill was bald when he passed away. Brenda's husband Bill was bald when he passed away. Brenda's husband Bill died about 45 years ago. Brenda and Sandra will meet up next Saturday.
+------------------------------------------------------------
+120
+REF: Joan and John are going to watch "A Star is Born" on Thursday around 8 p.m.
+PRED: Joan and John are going to see "A Star is Born" on Wed on Thursday at 8 pm.
+------------------------------------------------------------
+121
+REF: Donna will pay George a visit tonight to discuss a personal matter.
+PRED: Donna and George will meet at George's place tonight.
+------------------------------------------------------------
+122
+REF: Louis finishes the conversation with Fabian because his mother is calling.
+PRED: Louis is calling Fabian.
+------------------------------------------------------------
+123
+REF: Irene will take Crystal's son shopping for clothes.
+PRED: Crystal is going shopping with her little boy. Irene promises to buy him something.
+------------------------------------------------------------
+124
+REF: Tony sent a photo of his cat to Amy and Lucas.
+PRED: Amy and Lucas have a photo file of their cat.
+------------------------------------------------------------
+125
+REF: Matt got a ticket for Dawid Podsiadlo's concert. Thomas is going, too.
+PRED: Matt got a ticket for Dawid Podsiadlo. Thomas will see him there.
+------------------------------------------------------------
+126
+REF: Some girls had to undress because they had been pushed into the pool.
+PRED: Chris and June pushed some girls into the pool.
+------------------------------------------------------------
+127
+REF: Mico and Jeff will go to the village party. Jeff will drive.
+PRED: Jeff, Lia and Mico are going to the village party. Mico will drive to the village party.
+------------------------------------------------------------
+128
+REF: Paul can couch the game on Saturday as Matthew hasn't found anyone to do that yet.
+PRED: Paul will couch the game on Saturday.
+------------------------------------------------------------
+129
+REF: Freddy will pick Luke up at about 3:15 pm.
+PRED: Luke's train arrives at 3 pm. Fred will pick him up at 3:15.
+------------------------------------------------------------
+130
+REF: Ryan and Jack are going to the casting for a dance show.
+PRED: Ryan is going to the casting. Jack will come with him.
+------------------------------------------------------------
+131
+REF: Joanne is going to go back home to France for the holidays. She's going to cheer her mum up because her parents separated a few months ago. Evelyn offers Joanne to spend Christmas together if she brings her mum over here.
+PRED: Evelyn will stay at home and rest. Evelyn's parents separated a few months ago. Joanne's parents separated a few months ago. Joanne's mum is devastated.
+------------------------------------------------------------
+132
+REF: Raul's had a bad night and day.
+PRED: Raul had a crappy night. Raul started off with a fag yesterday. Raul had to go to a friend and Jen went to sit with her. Raul was pissed off all the time.
+------------------------------------------------------------
+133
+REF: Angie's having an appointment with Doctor McCormick in an hour. She has strong abdominal pain.
+PRED: Angie has severe stomach pain. Ms. Quinn is not in today. Doctor McCormick can see her in an hour.
+------------------------------------------------------------
+134
+REF: Kelvin and the other class members will discuss the time for their CAT 2 and share their decision with Naheeda soon.
+PRED: Kelvin, Naheeda and Naheeda are going to have the statistics class.
+------------------------------------------------------------
+135
+REF: Karen wants something cheaper than sushi for lunch. Linda, Ronnie and Karen will get takeout pasta boxes to the park.
+PRED: Linda, Ronnie and Karen are going to a sushi joint next to their apartment. Karen and Ronnie will wait for Amanda to check her fb.
+------------------------------------------------------------
+136
+REF: Marty thinks she has sprained her ankle. Marty wants to go to the doctor tomorrow. Christine will pick up Marcel from school today. Tomorrow Christine will take Marcel to school and Marty to the doctor. Marty will call the school. Christine and Marty will meet around 4.
+PRED: Marty has sprained her ankle. Christine will pick up Marcel from school tomorrow. Christine will pick up Marcel tomorrow morning.
+------------------------------------------------------------
+137
+REF: Peyton is expecting Cameron to bring the video game. Cameron will probably be out for another week.
+PRED: Cameron is not having enough time to come home. He will have to stay out of town for another week. Peyton will deliver the game.
+------------------------------------------------------------
+138
+REF: Alicja's job interview is tomorrow. She will inform Willyx how it goes.
+PRED: Willyx has a job interview tomorrow. Alicja will let him know how it went.
+------------------------------------------------------------
+139
+REF: Paul forgot about his physiotherapy and he will schedule a new appointment. Emma will be home after midnight, so Paul will prepare some food for her.
+PRED: Paul forgot about his physiotherapy. Emma will be home after midnight.
+------------------------------------------------------------
+140
+REF: Sean overslept again.
+PRED: Sean overslept.
+------------------------------------------------------------
+141
+REF: Chris and Tom are planning a meeting at Chris' place. Chris has a Jacuzzi in his garden. Chris has WiFi and can bring his TV outside. Tom has a low internet limit whenever he's outside of Ireland.
+PRED: Chris and Tom will go to jacuzzi in their garden for 5-6 people. Chris will bring swimming trunks and swimming trunks for 5-6 people. Tom and Chris will bring a TV outside.
+------------------------------------------------------------
+142
+REF: Ela is not taking Harry's phone calls. Cindy calls Ela at Harry's request.
+PRED: Harry is calling Ela and she needs to talk urgently. Cindy will pick her call.
+------------------------------------------------------------
+143
+REF: Mike didn't have time to take the dog for a walk, so Adam will take it with him.
+PRED: Mike took the dog for a walk. Adam will take him with him.
+------------------------------------------------------------
+144
+REF: Murphy is going to Poanań on Tuesday and coming back on the same day in the afternoon.
+PRED: Sophie is going to Poana on Tuesday. Murphy is coming back the same day.
+------------------------------------------------------------
+145
+REF: Gaia has 6 exams this semestre. One is very difficult.
+PRED: Gaia is doing a lot of work at the university. Gaia will have 6 exams this term.
+------------------------------------------------------------
+146
+REF: Mr. Williams invites Ms. Blair for a coffee. They will go to her favourite coffee place near the square in a side alley at 2 p.m.
+PRED: Ms. Blair wants to go for a coffee at Mr. Williams's.
+------------------------------------------------------------
+147
+REF: Serena's skin condition is fine now and she doesn't have to take medication. Tina has a similar condition but takes medication on a daily basis. Tina can call Serena if she has questions.
+PRED: Jeff is worried about Tina's skin condition. Serena will tell her to hang in there.
+------------------------------------------------------------
+148
+REF: Kristina, Estefania and Jannette are watching America's Top Model.
+PRED: Kristina is not home yet. Kristina is watching Tyra Banks.
+------------------------------------------------------------
+149
+REF: Daniel is going to Bologna today. He has to transfer there for a further flight. He will stay at the airport for two hours. Simone will visit Marco in December.
+PRED: Daniel is flying to Bologna this fall. Simone will come in December for a weekend.
+------------------------------------------------------------
+150
+REF: Mike will call Dale back in 2 hours.
+PRED: Mike will call Dale back in 2 hours.
+------------------------------------------------------------
+151
+REF: Timmy had a bad day at work. Timmy will bring some wine to Gemma's bbq at the weekend.
+PRED: Gemma is organising a bbq at the weekend. Gemma is organising a bbq at the weekend.
+------------------------------------------------------------
+152
+REF: Pat will arrive at around 9 pm. Bart will open the door and work in the morning from home.
+PRED: Pat will come in the evening around 9pm. Bart will open the door for Pat. Pat will work in the morning from home.
+------------------------------------------------------------
+153
+REF: Erin will meet Ashley in the restaurant for the interview.
+PRED: Ashley is at the camp. Erin and Ashley will meet at the pool or restaurant. Ashley is on her way. Erin is sitting in the back.
+------------------------------------------------------------
+154
+REF: Maria, Kate, Tommy and Sam are going to a conference. Tommy will use Prezi instead of Power Point. He has a Prezi subscription for $10 a month.
+PRED: Tommy is preparing a power point for the conference. Tommy is paying $10 a month for academics.
+------------------------------------------------------------
+155
+REF: Maxwell pays Jeanice for 8 hours of babysitting and is grateful he found her. His son argued with a friend at school, and got agressive when the teacher reacted. Jeanice hasn't noticed if he has acted strangely recently. Maxwell and Jeanice can grab a coffe some time to discuss all the issues.
+PRED: Jeanice and Maxwell are going to meet for a coffee at Maxwell's house tonight.
+------------------------------------------------------------
+156
+REF: Mike, Tom and Ben will go for a beer.
+PRED: Mike, Tom and Ben will go for a beer.
+------------------------------------------------------------
+157
+REF: Leah met a creepy guy last night at a poetry reading. He knew she speaks German and named all the friends who went to a past event with her. She didn't tell him any of this. He googled her before. Leah had liked a post mentioning him 2 weeks earlier.
+PRED: Leah met a creepiest guy on the earth last night. Leah went to the poetry reading last night. Leah didn't tell Samantha about the event he attended. Leah didn't tell Samantha about it. Leah told him that he was going to accompany poets on the guitar.
+------------------------------------------------------------
+158
+REF: Nicky has just left Sam's place. Her phone is off.
+PRED: Nicky is still at Dave's place.
+------------------------------------------------------------
+159
+REF: Ken is trying to play a prank on Greg.
+PRED: Ken wants Greg's money back because he is the prankster.
+------------------------------------------------------------
+160
+REF: Tom arrived safely, but without his luggage.
+PRED: Alexander will be in taxi if he is in a taxi. Tom will be in the taxi.
+------------------------------------------------------------
+161
+REF: The university is throwing a carnival party for kids.
+PRED: Asher and Shane have seen 5 bouncy castles in the hall.
+------------------------------------------------------------
+162
+REF: Ian is looking for his green folder. Sophie hasn't seen it but maybe Alex will know.
+PRED: Ian left Sophie's green folder on the dining room table. Sophie will ask Alex to put it somewhere.
+------------------------------------------------------------
+163
+REF: Simon will talk to Adrian in 5 minutes.
+PRED: Simon will be free at 5 o'clock.
+------------------------------------------------------------
+164
+REF: Jen is about to break up with her boyfriend. Jane knew from the beginning that they were not a good match. Jane is going to support Jen.
+PRED: Jen is going to tell her dickhead to move out of the mess. She's afraid of asking him to leave because he doesn't deserve it.
+------------------------------------------------------------
+165
+REF: Poppy is not going to be home tonight but she won't reveal the reason to Dean. She won't be making dinner so Dean has to get something on his way home.
+PRED: Dean is not preparing anything tonight. Poppy will get something on the way back home. Poppy will see Dean tomorrow.
+------------------------------------------------------------
+166
+REF: Gab wants to meet Kat in real life. Kat doesn't like Gab's insisting so she won't to talk to him at all.
+PRED: Gab and Kat will meet up for a drink in real life.
+------------------------------------------------------------
+167
+REF: Agatha is proud of herself because she has finished her presentation in Economics. She is very interested in Economics.
+PRED: Agatha's presentation is ready. She used recent research.
+------------------------------------------------------------
+168
+REF: Imagine Dragons have a concert at ABC Theatre on 12 July. Sally wants to go with Tim. She bought tickets, they cost 70.
+PRED: Sally and Tim are going to see Imagine Dragons at the ABC Theatre on 12 July.
+------------------------------------------------------------
+169
+REF: Andrew has discovered an issue with Bez's car in her absence but it seems to be ok. He will also take care of her plants until she is back on the 21st.
+PRED: Andrew went to the garage next to Willig to check the car's condition. Kate took the car to the garage next to Willig. Bez is in a hotel lobby now and uses a "phone credit". Bez is home on the 21st in the evening.
+------------------------------------------------------------
+170
+REF: Laura is going to visit her parents next Saturday. Keith might make a lasagne for her. Laura's mom has a birthday gift for her.
+PRED: Laura is planning to visit her old parents next Saturday. Keith will cook her lasagne next Saturday.
+------------------------------------------------------------
+171
+REF: Pegah is in class till 15:00. She will work from 17:00 till around 21:30. She will be back at 22:00. Miriam invited people over and wants Pegah to come. Pegah will have a cup of tea with her when she gets back. Miriam will save Pegah some wine.
+PRED: Pegah is in class till 15:00 and he works from 17:00 till about 21:30. Miriam will be back at 22:00.
+------------------------------------------------------------
+172
+REF: Robert will pick up floating balloons for Tom's birthday.
+PRED: Pam needs help with Tom's birthday. He needs to go shopping, cook and clean. He needs to pick up balloons from the store in the city centre.
+------------------------------------------------------------
+173
+REF: Shelly is voluntering at a food shelter and asks if others do some volunteer work. Tracy is not into that, but Jody always does some charity for Christmas.
+PRED: Shelly is volunteering at the food shelter. Jody is not into volunteer work.
+------------------------------------------------------------
+174
+REF: Jim will check out Max's latest music project when he gets home.
+PRED: Max is listening to his latest project. Jim will listen to it when he gets home.
+------------------------------------------------------------
+175
+REF: Kane recommends the new 30 Seconds to Mars album to Shannon.
+PRED: Kane recommends the new 30 seconds to mars album.
+------------------------------------------------------------
+176
+REF: Andy is going to visit Paul in about 1 hour.
+PRED: Andy will visit Paul in about 1 hour.
+------------------------------------------------------------
+177
+REF: Caroline and Megan play a guessing game - they need to guess which film a quote comes from.
+PRED: Caroline is very close to tugging on her testicles again.
+------------------------------------------------------------
+178
+REF: Josh should check the email from Ron.
+PRED: Ron sends Josh an email.
+------------------------------------------------------------
+179
+REF: Phoebe cannot go out today because she broke a bottle of her mother's expensive perfume. Phoebe's mother is angry. The smell of the perfume in the apartment is too intense now.
+PRED: Phoebe's mum is angry because she used her perfume. Phoebe used it and broke it.
+------------------------------------------------------------
+180
+REF: Rob and Eve will meet on Sunday morning to go to the shops. Eve has something to do at about 3.
+PRED: Eve and Rob are meeting up on Sunday at 3 pm.
+------------------------------------------------------------
+181
+REF: Betty shares a photo of a man with a cat with Sandra. Sandra's ex wants to get back. She misses him. Betty comes over with wine at 6.
+PRED: Sandra has a special place in her heart for men that take care of animals. She has a special place in her heart for men that take care of animals. Betty will be at Sandra's place at 6.
+------------------------------------------------------------
+182
+REF: Anna likes a new app in which you can virtually try on clothes. Peter is not quite convinced it is necessary.
+PRED: Anna and Peter are going to play a game with the app.
+------------------------------------------------------------
+183
+REF: Dan's had an injection with anaesthesis because he got swollen. He feels it's not working though and it still hurts him.
+PRED: Dan got an injection with anaesthetic and it hurts.
+------------------------------------------------------------
+184
+REF: Archie is arriving from Southampton around midnight. He will travel by bus. He will call Judah.
+PRED: Judah is arriving from Southampton around midnight. Judah will be travelling to yours by bus around midnight.
+------------------------------------------------------------
+185
+REF: Chloe will watch the serious recommended by Biwott at the weekend.
+PRED: Chloe hasn't watched the series yet. She will watch it during the weekend.
+------------------------------------------------------------
+186
+REF: Lauren want's to have a small tattoo above her ankle.
+PRED: Lauren is thinking of getting a tattoo. She's afraid of pain. She's going to get a bird.
+------------------------------------------------------------
+187
+REF: The toilet upstairs is blocked again. Wendy and David can't afford the plumber as Wendy spent the money on her sister's birthday present.
+PRED: Wendy thinks the upstairs toilet is blocked. David is not sure if it is blocked. Wendy doesn't think they can afford to pay the plumber this month.
+------------------------------------------------------------
+188
+REF: Kaylen wants to know if there is left-hand traffic in Rowen's country. He confirms there is. She thinks she wouldn't be able to drive there.
+PRED: Kaylen and Rowen drive on the left.
+------------------------------------------------------------
+189
+REF: Tom wants to go to Robinson Crusoe's island.
+PRED: Tom has to go to Robinson Crusoe's island.
+------------------------------------------------------------
+190
+REF: Titus agrees to help Emely with a language exercise. Emely sends Titus a photo of the filled out exercise, but he has trouble reading it.
+PRED: Titus has a problem with a cash cow. Emely can't read it.
+------------------------------------------------------------
+191
+REF: Marco will read Aldo's 12 page article that he spent 2 weeks writing.
+PRED: Aldo received Marco's email. It took him weeks to finish it. Aldo will print it and read it.
+------------------------------------------------------------
+192
+REF: Harris' friend, Aoki, who lives in Michigan, died yesterday. Harris hasn't seen her for a few months.
+PRED: Harris' friend Aoki died yesterday.
+------------------------------------------------------------
+193
+REF: Hannah's New Year's resolutions are: work out, cook for herself, start dating. Brooklyn didn't make any. In the past she had, but she never fulfilled them.
+PRED: Hannah is going to lose weight and exercise everyday (or at least 3 times a week). She wants to learn how to cook and start meal prepping. She is going to find her future husband (or at least start using dating apps).
+------------------------------------------------------------
+194
+REF: Trevor got Abigail pregnant. When they were having sex without protection her father, a church pastor, kicked Trevor in the butt and Trevor came inside Abigail.
+PRED: Trevor has a problem with Abigail's dad. He's a church pastor and he hasn't got any condoms. Trevor is going to pull out at the last moment.
+------------------------------------------------------------
+195
+REF: Jessica posts a lot regarding subjects she does nothing about in reality. Julia posts in a more genuine way. But Hillary thinks she does it to death and lacks real life.
+PRED: Julia likes her Instagram and Snapchat. Gail and Julia like to spy on her. Julia posts a lot of fitness-related stuff. Gail and Julia have no life in real life.
+------------------------------------------------------------
+196
+REF: Miranda called Tom yesterday and spoke to him in a sweet way. Anne is angry with her because Anne is dating Tom.
+PRED: Anne and Nora hate each other. They both hate each other.
+------------------------------------------------------------
+197
+REF: Barbara and Eva described their dietary requirements in the website given by Ella.
+PRED: Ella's family is coming to the catering company. Eva and Barbara are looking for information.
+------------------------------------------------------------
+198
+REF: Sarah will arrive to New York on Thursday. Joshua expects to get a gift.
+PRED: Joshua is coming to New York on Thursday. Sarah will be waiting for her gift.
+------------------------------------------------------------
+199
+REF: Allison has got a scholarship.
+PRED: Allison has got a scholarship. Maya and Sarah will celebrate.
+------------------------------------------------------------

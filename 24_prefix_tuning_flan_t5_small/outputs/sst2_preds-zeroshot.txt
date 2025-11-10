@@ -1,0 +1,200 @@
+0	PRED=positive	TRUE=positive	SENT=it 's a charming and often affecting journey . 
+1	PRED=negative	TRUE=negative	SENT=unflinchingly bleak and desperate 
+2	PRED=positive	TRUE=positive	SENT=allows us to hope that nolan is poised to embark a major career as a commercial yet inventive filmmaker . 
+3	PRED=positive	TRUE=positive	SENT=the acting , costumes , music , cinematography and sound are all astounding given the production 's austere locales . 
+4	PRED=negative	TRUE=negative	SENT=it 's slow -- very , very slow . 
+5	PRED=positive	TRUE=positive	SENT=although laced with humor and a few fanciful touches , the film is a refreshingly serious look at young women . 
+6	PRED=negative	TRUE=negative	SENT=a sometimes tedious film . 
+7	PRED=negative	TRUE=negative	SENT=or doing last year 's taxes with your ex-wife . 
+8	PRED=positive	TRUE=positive	SENT=you do n't have to know about music to appreciate the film 's easygoing blend of comedy and romance . 
+9	PRED=negative	TRUE=negative	SENT=in exactly 89 minutes , most of which passed as slowly as if i 'd been sitting naked on an igloo , formula 51 sank from quirky to jerky to utter turkey . 
+10	PRED=positive	TRUE=positive	SENT=the mesmerizing performances of the leads keep the film grounded and keep the audience riveted . 
+11	PRED=negative	TRUE=negative	SENT=it takes a strange kind of laziness to waste the talents of robert forster , anne meara , eugene levy , and reginald veljohnson all in the same movie . 
+12	PRED=negative	TRUE=negative	SENT=... the film suffers from a lack of humor ( something needed to balance out the violence ) ... 
+13	PRED=positive	TRUE=positive	SENT=we root for ( clara and paul ) , even like them , though perhaps it 's an emotion closer to pity . 
+14	PRED=negative	TRUE=negative	SENT=even horror fans will most likely not find what they 're seeking with trouble every day ; the movie lacks both thrills and humor . 
+15	PRED=positive	TRUE=positive	SENT=a gorgeous , high-spirited musical from india that exquisitely blends music , dance , song , and high drama . 
+16	PRED=negative	TRUE=positive	SENT=the emotions are raw and will strike a nerve with anyone who 's ever had family trauma . 
+17	PRED=positive	TRUE=positive	SENT=audrey tatou has a knack for picking roles that magnify her outrageous charm , and in this literate french comedy , she 's as morning-glory exuberant as she was in amélie . 
+18	PRED=negative	TRUE=negative	SENT=... the movie is just a plain old monster . 
+19	PRED=negative	TRUE=negative	SENT=in its best moments , resembles a bad high school production of grease , without benefit of song . 
+20	PRED=negative	TRUE=negative	SENT=pumpkin takes an admirable look at the hypocrisy of political correctness , but it does so with such an uneven tone that you never know when humor ends and tragedy begins . 
+21	PRED=negative	TRUE=negative	SENT=the iditarod lasts for days - this just felt like it did . 
+22	PRED=positive	TRUE=negative	SENT=holden caulfield did it better . 
+23	PRED=positive	TRUE=positive	SENT=a delectable and intriguing thriller filled with surprises , read my lips is an original . 
+24	PRED=positive	TRUE=positive	SENT=seldom has a movie so closely matched the spirit of a man and his work . 
+25	PRED=negative	TRUE=negative	SENT=nicks , seemingly uncertain what 's going to make people laugh , runs the gamut from stale parody to raunchy sex gags to formula romantic comedy . 
+26	PRED=negative	TRUE=negative	SENT=the action switches between past and present , but the material link is too tenuous to anchor the emotional connections that purport to span a 125-year divide . 
+27	PRED=positive	TRUE=positive	SENT=it 's an offbeat treat that pokes fun at the democratic exercise while also examining its significance for those who take part . 
+28	PRED=negative	TRUE=negative	SENT=it 's a cookie-cutter movie , a cut-and-paste job . 
+29	PRED=negative	TRUE=negative	SENT=i had to look away - this was god awful . 
+30	PRED=positive	TRUE=positive	SENT=thanks to scott 's charismatic roger and eisenberg 's sweet nephew , roger dodger is one of the most compelling variations on in the company of men . 
+31	PRED=negative	TRUE=negative	SENT=... designed to provide a mix of smiles and tears , `` crossroads '' instead provokes a handful of unintentional howlers and numerous yawns . 
+32	PRED=positive	TRUE=positive	SENT=a gorgeous , witty , seductive movie . 
+33	PRED=negative	TRUE=negative	SENT=if the movie succeeds in instilling a wary sense of ` there but for the grace of god , ' it is far too self-conscious to draw you deeply into its world . 
+34	PRED=negative	TRUE=negative	SENT=it does n't believe in itself , it has no sense of humor ... it 's just plain bored . 
+35	PRED=negative	TRUE=negative	SENT=a sequence of ridiculous shoot - 'em - up scenes . 
+36	PRED=positive	TRUE=positive	SENT=the weight of the piece , the unerring professionalism of the chilly production , and the fascination embedded in the lurid topic prove recommendation enough . 
+37	PRED=negative	TRUE=negative	SENT=( w ) hile long on amiable monkeys and worthy environmentalism , jane goodall 's wild chimpanzees is short on the thrills the oversize medium demands . 
+38	PRED=negative	TRUE=positive	SENT=as surreal as a dream and as detailed as a photograph , as visually dexterous as it is at times imaginatively overwhelming . 
+39	PRED=positive	TRUE=positive	SENT=escaping the studio , piccoli is warmly affecting and so is this adroitly minimalist movie . 
+40	PRED=positive	TRUE=positive	SENT=there 's ... tremendous energy from the cast , a sense of playfulness and excitement that seems appropriate . 
+41	PRED=positive	TRUE=positive	SENT=this illuminating documentary transcends our preconceived vision of the holy land and its inhabitants , revealing the human complexities beneath . 
+42	PRED=positive	TRUE=positive	SENT=the subtle strength of `` elling '' is that it never loses touch with the reality of the grim situation . 
+43	PRED=positive	TRUE=positive	SENT=holm ... embodies the character with an effortlessly regal charisma . 
+44	PRED=negative	TRUE=negative	SENT=the title not only describes its main characters , but the lazy people behind the camera as well . 
+45	PRED=negative	TRUE=negative	SENT=it offers little beyond the momentary joys of pretty and weightless intellectual entertainment . 
+46	PRED=negative	TRUE=negative	SENT=a synthesis of cliches and absurdities that seems positively decadent in its cinematic flash and emptiness . 
+47	PRED=positive	TRUE=positive	SENT=a subtle and well-crafted ( for the most part ) chiller . 
+48	PRED=positive	TRUE=positive	SENT=has a lot of the virtues of eastwood at his best . 
+49	PRED=negative	TRUE=negative	SENT=it 's hampered by a lifetime-channel kind of plot and a lead actress who is out of her depth . 
+50	PRED=positive	TRUE=negative	SENT=it feels like an after-school special gussied up with some fancy special effects , and watching its rote plot points connect is about as exciting as gazing at an egg timer for 93 minutes . 
+51	PRED=positive	TRUE=positive	SENT=for the most part , director anne-sophie birot 's first feature is a sensitive , extraordinarily well-acted drama . 
+52	PRED=positive	TRUE=positive	SENT=mr. tsai is a very original artist in his medium , and what time is it there ? 
+53	PRED=positive	TRUE=positive	SENT=sade is an engaging look at the controversial eponymous and fiercely atheistic hero . 
+54	PRED=negative	TRUE=negative	SENT=so devoid of any kind of intelligible story that it makes films like xxx and collateral damage seem like thoughtful treatises 
+55	PRED=positive	TRUE=positive	SENT=a tender , heartfelt family drama . 
+56	PRED=negative	TRUE=negative	SENT=... a hollow joke told by a cinematic gymnast having too much fun embellishing the misanthropic tale to actually engage it . 
+57	PRED=negative	TRUE=negative	SENT=the cold turkey would 've been a far better title . 
+58	PRED=negative	TRUE=negative	SENT=manages to be both repulsively sadistic and mundane . 
+59	PRED=negative	TRUE=negative	SENT=it 's just disappointingly superficial -- a movie that has all the elements necessary to be a fascinating , involving character study , but never does more than scratch the surface . 
+60	PRED=positive	TRUE=positive	SENT=this is a story of two misfits who do n't stand a chance alone , but together they are magnificent . 
+61	PRED=negative	TRUE=negative	SENT=schaeffer has to find some hook on which to hang his persistently useless movies , and it might as well be the resuscitation of the middle-aged character . 
+62	PRED=negative	TRUE=positive	SENT=the primitive force of this film seems to bubble up from the vast collective memory of the combatants . 
+63	PRED=positive	TRUE=positive	SENT=on this tricky topic , tadpole is very much a step in the right direction , with its blend of frankness , civility and compassion . 
+64	PRED=negative	TRUE=negative	SENT=the script kicks in , and mr. hartley 's distended pace and foot-dragging rhythms follow . 
+65	PRED=negative	TRUE=negative	SENT=you wonder why enough was n't just a music video rather than a full-length movie . 
+66	PRED=negative	TRUE=positive	SENT=if you 're hard up for raunchy college humor , this is your ticket right here . 
+67	PRED=positive	TRUE=positive	SENT=a fast , funny , highly enjoyable movie . 
+68	PRED=positive	TRUE=positive	SENT=good old-fashioned slash-and-hack is back ! 
+69	PRED=negative	TRUE=negative	SENT=this one is definitely one to skip , even for horror movie fanatics . 
+70	PRED=negative	TRUE=negative	SENT=for all its impressive craftsmanship , and despite an overbearing series of third-act crescendos , lily chou-chou never really builds up a head of emotional steam . 
+71	PRED=positive	TRUE=positive	SENT=exquisitely nuanced in mood tics and dialogue , this chamber drama is superbly acted by the deeply appealing veteran bouquet and the chilling but quite human berling . 
+72	PRED=positive	TRUE=positive	SENT=uses high comedy to evoke surprising poignance . 
+73	PRED=positive	TRUE=positive	SENT=one of creepiest , scariest movies to come along in a long , long time , easily rivaling blair witch or the others . 
+74	PRED=negative	TRUE=negative	SENT=a string of rehashed sight gags based in insipid vulgarity . 
+75	PRED=positive	TRUE=positive	SENT=among the year 's most intriguing explorations of alientation . 
+76	PRED=negative	TRUE=negative	SENT=the movie fails to live up to the sum of its parts . 
+77	PRED=positive	TRUE=positive	SENT=the son 's room is a triumph of gentility that earns its moments of pathos . 
+78	PRED=positive	TRUE=positive	SENT=there is nothing outstanding about this film , but it is good enough and will likely be appreciated most by sailors and folks who know their way around a submarine . 
+79	PRED=negative	TRUE=negative	SENT=this is a train wreck of an action film -- a stupefying attempt by the filmmakers to force-feed james bond into the mindless xxx mold and throw 40 years of cinematic history down the toilet in favor of bright flashes and loud bangs . 
+80	PRED=positive	TRUE=positive	SENT=the draw ( for `` big bad love '' ) is a solid performance by arliss howard . 
+81	PRED=negative	TRUE=negative	SENT=green might want to hang onto that ski mask , as robbery may be the only way to pay for his next project . 
+82	PRED=negative	TRUE=negative	SENT=it 's one pussy-ass world when even killer-thrillers revolve around group therapy sessions . 
+83	PRED=negative	TRUE=positive	SENT=though it 's become almost redundant to say so , major kudos go to leigh for actually casting people who look working-class . 
+84	PRED=positive	TRUE=positive	SENT=the band 's courage in the face of official repression is inspiring , especially for aging hippies ( this one included ) . 
+85	PRED=positive	TRUE=positive	SENT=the movie achieves as great an impact by keeping these thoughts hidden as ... ( quills ) did by showing them . 
+86	PRED=negative	TRUE=negative	SENT=the film flat lines when it should peak and is more missed opportunity and trifle than dark , decadent truffle . 
+87	PRED=negative	TRUE=positive	SENT=jaglom ... put ( s ) the audience in the privileged position of eavesdropping on his characters 
+88	PRED=negative	TRUE=positive	SENT=fresnadillo 's dark and jolting images have a way of plying into your subconscious like the nightmare you had a week ago that wo n't go away . 
+89	PRED=positive	TRUE=positive	SENT=we know the plot 's a little crazy , but it held my interest from start to finish . 
+90	PRED=positive	TRUE=positive	SENT=it 's a scattershot affair , but when it hits its mark it 's brilliant . 
+91	PRED=positive	TRUE=positive	SENT=hardly a masterpiece , but it introduces viewers to a good charitable enterprise and some interesting real people . 
+92	PRED=negative	TRUE=negative	SENT=you wo n't like roger , but you will quickly recognize him . 
+93	PRED=positive	TRUE=positive	SENT=if steven soderbergh 's ` solaris ' is a failure it is a glorious failure . 
+94	PRED=positive	TRUE=positive	SENT=byler reveals his characters in a way that intrigues and even fascinates us , and he never reduces the situation to simple melodrama . 
+95	PRED=positive	TRUE=negative	SENT=this riveting world war ii moral suspense story deals with the shadow side of american culture : racial prejudice in its ugly and diverse forms . 
+96	PRED=negative	TRUE=negative	SENT=it 's difficult to imagine the process that produced such a script , but here 's guessing that spray cheese and underarm noises played a crucial role . 
+97	PRED=negative	TRUE=positive	SENT=no sophomore slump for director sam mendes , who segues from oscar winner to oscar-winning potential with a smooth sleight of hand . 
+98	PRED=negative	TRUE=negative	SENT=on the whole , the movie lacks wit , feeling and believability to compensate for its incessant coarseness and banality . 
+99	PRED=negative	TRUE=negative	SENT=why make a documentary about these marginal historical figures ? 
+100	PRED=positive	TRUE=positive	SENT=neither parker nor donovan is a typical romantic lead , but they bring a fresh , quirky charm to the formula . 
+101	PRED=negative	TRUE=negative	SENT=his last movie was poetically romantic and full of indelible images , but his latest has nothing going for it . 
+102	PRED=negative	TRUE=positive	SENT=does paint some memorable images ... , but makhmalbaf keeps her distance from the characters 
+103	PRED=positive	TRUE=positive	SENT=a gripping movie , played with performances that are all understated and touching . 
+104	PRED=positive	TRUE=positive	SENT=it 's one of those baseball pictures where the hero is stoic , the wife is patient , the kids are as cute as all get-out and the odds against success are long enough to intimidate , but short enough to make a dream seem possible . 
+105	PRED=negative	TRUE=negative	SENT=combining quick-cut editing and a blaring heavy metal much of the time , beck seems to be under the illusion that he 's shooting the latest system of a down video . 
+106	PRED=positive	TRUE=positive	SENT=the movie 's relatively simple plot and uncomplicated morality play well with the affable cast . 
+107	PRED=negative	TRUE=negative	SENT=what the director ca n't do is make either of val kilmer 's two personas interesting or worth caring about . 
+108	PRED=negative	TRUE=negative	SENT=too often , the viewer is n't reacting to humor so much as they are wincing back in repugnance . 
+109	PRED=positive	TRUE=positive	SENT=it 's great escapist fun that recreates a place and time that will never happen again . 
+110	PRED=negative	TRUE=negative	SENT=scores no points for originality , wit , or intelligence . 
+111	PRED=negative	TRUE=negative	SENT=there is n't nearly enough fun here , despite the presence of some appealing ingredients . 
+112	PRED=negative	TRUE=positive	SENT=hilariously inept and ridiculous . 
+113	PRED=negative	TRUE=negative	SENT=this movie is maddening . 
+114	PRED=positive	TRUE=positive	SENT=it haunts you , you ca n't forget it , you admire its conception and are able to resolve some of the confusions you had while watching it . 
+115	PRED=negative	TRUE=negative	SENT=sam mendes has become valedictorian at the school for soft landings and easy ways out . 
+116	PRED=positive	TRUE=positive	SENT=one of the smartest takes on singles culture i 've seen in a long time . 
+117	PRED=positive	TRUE=positive	SENT=moody , heartbreaking , and filmed in a natural , unforced style that makes its characters seem entirely convincing even when its script is not . 
+118	PRED=positive	TRUE=negative	SENT=every nanosecond of the the new guy reminds you that you could be doing something else far more pleasurable . 
+119	PRED=negative	TRUE=negative	SENT=comes ... uncomfortably close to coasting in the treads of the bicycle thief . 
+120	PRED=positive	TRUE=positive	SENT=warm water under a red bridge is a quirky and poignant japanese film that explores the fascinating connections between women , water , nature , and sexuality . 
+121	PRED=negative	TRUE=negative	SENT=it seems to me the film is about the art of ripping people off without ever letting them consciously know you have done so 
+122	PRED=positive	TRUE=positive	SENT=old-form moviemaking at its best . 
+123	PRED=negative	TRUE=positive	SENT=turns potentially forgettable formula into something strangely diverting . 
+124	PRED=positive	TRUE=positive	SENT=( lawrence bounces ) all over the stage , dancing , running , sweating , mopping his face and generally displaying the wacky talent that brought him fame in the first place . 
+125	PRED=positive	TRUE=positive	SENT=a movie that reminds us of just how exciting and satisfying the fantasy cinema can be when it 's approached with imagination and flair . 
+126	PRED=negative	TRUE=negative	SENT=confirms the nagging suspicion that ethan hawke would be even worse behind the camera than he is in front of it . 
+127	PRED=negative	TRUE=negative	SENT=in the end , we are left with something like two ships passing in the night rather than any insights into gay love , chinese society or the price one pays for being dishonest . 
+128	PRED=positive	TRUE=positive	SENT=montias ... pumps a lot of energy into his nicely nuanced narrative and surrounds himself with a cast of quirky -- but not stereotyped -- street characters . 
+129	PRED=positive	TRUE=positive	SENT=it provides the grand , intelligent entertainment of a superior cast playing smart people amid a compelling plot . 
+130	PRED=negative	TRUE=negative	SENT=suffers from the lack of a compelling or comprehensible narrative . 
+131	PRED=negative	TRUE=negative	SENT=in execution , this clever idea is far less funny than the original , killers from space . 
+132	PRED=positive	TRUE=positive	SENT=scooby dooby doo / and shaggy too / you both look and sound great . 
+133	PRED=negative	TRUE=negative	SENT=the tale of tok ( andy lau ) , a sleek sociopath on the trail of o ( takashi sorimachi ) , the most legendary of asian hitmen , is too scattershot to take hold . 
+134	PRED=negative	TRUE=negative	SENT=it all drags on so interminably it 's like watching a miserable relationship unfold in real time . 
+135	PRED=positive	TRUE=negative	SENT=pumpkin means to be an outrageous dark satire on fraternity life , but its ambitions far exceed the abilities of writer adam larson broder and his co-director , tony r. abrams , in their feature debut . 
+136	PRED=positive	TRUE=negative	SENT=looks and feels like a project better suited for the small screen . 
+137	PRED=negative	TRUE=negative	SENT=forced , familiar and thoroughly condescending . 
+138	PRED=positive	TRUE=positive	SENT=that is a compliment to kuras and miller . 
+139	PRED=negative	TRUE=negative	SENT=it 's not the ultimate depression-era gangster movie . 
+140	PRED=positive	TRUE=negative	SENT=sacrifices the value of its wealth of archival foot-age with its less-than-objective stance . 
+141	PRED=negative	TRUE=negative	SENT=the character of zigzag is not sufficiently developed to support a film constructed around him . 
+142	PRED=positive	TRUE=positive	SENT=what better message than ` love thyself ' could young women of any size receive ? 
+143	PRED=positive	TRUE=positive	SENT=a solid film ... but more conscientious than it is truly stirring . 
+144	PRED=negative	TRUE=negative	SENT=while ( hill ) has learned new tricks , the tricks alone are not enough to salvage this lifeless boxing film . 
+145	PRED=negative	TRUE=negative	SENT=the best that can be said about the work here of scottish director ritchie ... is that he obviously does n't have his heart in it . 
+146	PRED=positive	TRUE=positive	SENT=about a manga-like heroine who fights back at her abusers , it 's energetic and satisfying if not deep and psychological . 
+147	PRED=negative	TRUE=negative	SENT=the talented and clever robert rodriguez perhaps put a little too much heart into his first film and did n't reserve enough for his second . 
+148	PRED=negative	TRUE=negative	SENT=feels too formulaic and too familiar to produce the transgressive thrills of early underground work . 
+149	PRED=negative	TRUE=positive	SENT=the volatile dynamics of female friendship is the subject of this unhurried , low-key film that is so off-hollywood that it seems positively french in its rhythms and resonance . 
+150	PRED=positive	TRUE=positive	SENT=overall very good for what it 's trying to do . 
+151	PRED=positive	TRUE=positive	SENT=a big , gorgeous , sprawling swashbuckler that delivers its diversions in grand , uncomplicated fashion . 
+152	PRED=positive	TRUE=positive	SENT=a difficult , absorbing film that manages to convey more substance despite its repetitions and inconsistencies than do most films than are far more pointed and clear . 
+153	PRED=negative	TRUE=negative	SENT=the heavy-handed film is almost laughable as a consequence . 
+154	PRED=positive	TRUE=positive	SENT=a solid examination of the male midlife crisis . 
+155	PRED=negative	TRUE=negative	SENT=a nightmare date with a half-formed wit done a great disservice by a lack of critical distance and a sad trust in liberal arts college bumper sticker platitudes . 
+156	PRED=positive	TRUE=positive	SENT=manages to transcend the sex , drugs and show-tunes plot into something far richer . 
+157	PRED=negative	TRUE=negative	SENT=it takes talent to make a lifeless movie about the most heinous man who ever lived . 
+158	PRED=positive	TRUE=negative	SENT=by getting myself wrapped up in the visuals and eccentricities of many of the characters , i found myself confused when it came time to get to the heart of the movie . 
+159	PRED=negative	TRUE=positive	SENT=like leon , it 's frustrating and still oddly likable . 
+160	PRED=negative	TRUE=negative	SENT=uncommonly stylish but equally silly ... the picture fails to generate much suspense , nor does it ask searching enough questions to justify its pretensions . 
+161	PRED=negative	TRUE=negative	SENT=not exactly the bees knees 
+162	PRED=negative	TRUE=negative	SENT=there seems to be no clear path as to where the story 's going , or how long it 's going to take to get there . 
+163	PRED=negative	TRUE=negative	SENT=slapstick buffoonery can tickle many a preschooler 's fancy , but when it costs a family of four about $ 40 to see a film in theaters , why spend money on a dog like this when you can rent a pedigree instead ? 
+164	PRED=positive	TRUE=positive	SENT=a woman 's pic directed with resonance by ilya chaiken . 
+165	PRED=negative	TRUE=negative	SENT=may reawaken discussion of the kennedy assassination but this fictional film looks made for cable rather than for the big screen . 
+166	PRED=negative	TRUE=negative	SENT=characters still need to function according to some set of believable and comprehensible impulses , no matter how many drugs they do or how much artistic license avary employs . 
+167	PRED=negative	TRUE=negative	SENT=the end result is a film that 's neither . 
+168	PRED=positive	TRUE=positive	SENT=manages to be sweet and wickedly satisfying at the same time . 
+169	PRED=positive	TRUE=positive	SENT=leigh 's film is full of memorable performances from top to bottom . 
+170	PRED=positive	TRUE=positive	SENT=it 's also , clearly , great fun . 
+171	PRED=positive	TRUE=negative	SENT=rarely has leukemia looked so shimmering and benign . 
+172	PRED=negative	TRUE=positive	SENT=it seems like i have been waiting my whole life for this movie and now i ca n't wait for the sequel . 
+173	PRED=negative	TRUE=negative	SENT=determined to be fun , and bouncy , with energetic musicals , the humor did n't quite engage this adult . 
+174	PRED=positive	TRUE=positive	SENT=if you dig on david mamet 's mind tricks ... rent this movie and enjoy ! 
+175	PRED=positive	TRUE=positive	SENT=bleakly funny , its characters all the more touching for refusing to pity or memorialize themselves . 
+176	PRED=negative	TRUE=negative	SENT=delivers the same old same old , tarted up with latin flava and turned out by hollywood playas . 
+177	PRED=negative	TRUE=negative	SENT=does n't offer much besides glib soullessness , raunchy language and a series of brutal set pieces ... that raise the bar on stylized screen violence . 
+178	PRED=negative	TRUE=negative	SENT=it made me want to wrench my eyes out of my head and toss them at the screen . 
+179	PRED=positive	TRUE=positive	SENT=the film 's performances are thrilling . 
+180	PRED=negative	TRUE=negative	SENT=unfortunately , it 's not silly fun unless you enjoy really bad movies . 
+181	PRED=negative	TRUE=negative	SENT=it 's a bad thing when a movie has about as much substance as its end credits blooper reel . 
+182	PRED=negative	TRUE=negative	SENT=i sympathize with the plight of these families , but the movie does n't do a very good job conveying the issue at hand . 
+183	PRED=positive	TRUE=negative	SENT=the lower your expectations , the more you 'll enjoy it . 
+184	PRED=negative	TRUE=negative	SENT=though perry and hurley make inspiring efforts to breathe life into the disjointed , haphazard script by jay scherick and david ronn , neither the actors nor director reginald hudlin can make it more than fitfully entertaining . 
+185	PRED=positive	TRUE=positive	SENT=a must-see for the david mamet enthusiast and for anyone who appreciates intelligent , stylish moviemaking . 
+186	PRED=negative	TRUE=positive	SENT=pacino is brilliant as the sleep-deprived dormer , his increasing weariness as much existential as it is physical . 
+187	PRED=positive	TRUE=positive	SENT=` de niro ... is a veritable source of sincere passion that this hollywood contrivance orbits around . ' 
+188	PRED=negative	TRUE=negative	SENT=a misogynistic piece of filth that attempts to pass itself off as hip , young adult entertainment . 
+189	PRED=negative	TRUE=negative	SENT=its story may be a thousand years old , but why did it have to seem like it took another thousand to tell it to us ? 
+190	PRED=negative	TRUE=negative	SENT=try as i may , i ca n't think of a single good reason to see this movie , even though everyone in my group extemporaneously shouted , ` thank you ! ' 
+191	PRED=positive	TRUE=positive	SENT=the movie is beautiful to behold and engages one in a sense of epic struggle -- inner and outer -- that 's all too rare in hollywood 's hastier productions . 
+192	PRED=negative	TRUE=positive	SENT=a celebration of quirkiness , eccentricity , and certain individuals ' tendency to let it all hang out , and damn the consequences . 
+193	PRED=positive	TRUE=positive	SENT=morton uses her face and her body language to bring us morvern 's soul , even though the character is almost completely deadpan . 
+194	PRED=negative	TRUE=positive	SENT=instead of a hyperbolic beat-charged urban western , it 's an unpretentious , sociologically pointed slice of life . 
+195	PRED=positive	TRUE=positive	SENT=my thoughts were focused on the characters . 
+196	PRED=negative	TRUE=positive	SENT=so , too , is this comedy about mild culture clashing in today 's new delhi . 
+197	PRED=negative	TRUE=negative	SENT=for starters , the story is just too slim . 
+198	PRED=positive	TRUE=positive	SENT=this is a winning ensemble comedy that shows canadians can put gentle laughs and equally gentle sentiments on the button , just as easily as their counterparts anywhere else in the world . 
+199	PRED=negative	TRUE=negative	SENT=at the very least , if you do n't know anything about derrida when you walk into the theater , you wo n't know much more when you leave . 
