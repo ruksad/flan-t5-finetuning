@@ -1,0 +1,19 @@
+{
+  "auto_mapping": null,
+  "base_model_name_or_path": "google-t5/t5-small",
+  "inference_mode": true,
+  "modules_to_save": null,
+  "num_attention_heads": 8,
+  "num_layers": 6,
+  "num_transformer_submodules": 2,
+  "num_virtual_tokens": 20,
+  "peft_type": "PROMPT_TUNING",
+  "peft_version": "0.18.0",
+  "prompt_tuning_init": "RANDOM",
+  "prompt_tuning_init_text": null,
+  "revision": null,
+  "task_type": "SEQ_2_SEQ_LM",
+  "token_dim": 512,
+  "tokenizer_kwargs": null,
+  "tokenizer_name_or_path": null
+}
